@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @junjiequ1459
-- 👀 I’m interested in working for money $ and AI Research 
+- 👀 I’m interested in working for money $ as a SWE
 - 🌱 I’m currently learning ruby fullstack 
 - 💞️ I’m looking to collaborate on anything ya got
 - 📫 How to reach me? linkedIn dm : email
