@@ -3,10 +3,10 @@
 ![giphy](https://user-images.githubusercontent.com/30753677/234390477-830e9148-0f5c-46d8-93ad-3efdd1a2f33c.gif)
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/kevin-liu-3a5b96158/">
+  <a href="https://www.linkedin.com/in/kevin-liu-3a5b96158/](https://www.linkedin.com/in/junjie-qu-239070169/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/kliu33">
+  <a href="https://github.com/junjiequ1459">
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </div>
