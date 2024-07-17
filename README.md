@@ -9,10 +9,6 @@
   </a>
 </div>
 
-
-## Technologies
-[![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,redux,express,nodejs,d3,ruby,rails,py,html,css,vscode,postman,git,sqlite&perline=8&theme=light)](https://skills.thijs.gg)
-
 ## Coding Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kliu33&theme=transparent)](https://git.io/streak-stats)
