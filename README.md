@@ -4,9 +4,6 @@
   <a href="https://www.linkedin.com/in/junjie-qu-239070169/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/junjiequ1459">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
 </div>
 
 ## Coding Stats
