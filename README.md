@@ -1,4 +1,4 @@
-### Hi there 👋 checkout my portfolio https://junjie.dev
+### Hi there 👋 checkout my portfolio https://junjiequ.com
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/junjie-qu-239070169/">
